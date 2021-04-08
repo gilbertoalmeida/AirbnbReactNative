@@ -1,0 +1,6 @@
+module Pods_AirbnbReactNative_AirbnbReactNativeTests {
+  umbrella header "Pods-AirbnbReactNative-AirbnbReactNativeTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
